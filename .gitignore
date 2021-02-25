@@ -1,2 +1,10 @@
-hexlet gitignore
 .tmp
+.DS_Store
+Thumbs.db
+*.sql
+.gitignore
+/.idea/
+/sitemap*.xml
+
+/upload/*
+.INFO.md
